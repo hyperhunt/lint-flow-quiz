@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lintflow Quiz</string>
+    <string name="btn1">5</string>
+    <string name="btn2">10</string>
+    <string name="btn3">15</string>
+    <string name="btn4">20</string>
+    <string name="counter_question">counterQuestion</string>
+    <string name="text_select_value_questions">Выбери количество слов</string>
+    <string name="text_start_again">Начать заново</string>
+    <string name="text_app_exit">Выход</string>
+</resources>

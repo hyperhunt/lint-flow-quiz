@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark">#202225</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="btn_gray">#2A6FE2</color>
+    <color name="grayDark">#292C35</color>
+    <color name="fontTextColor">#989898</color>
+    <color name="btn_pressed">#292C35</color>
+    <color name="btn_background">#444957</color>
+    <color name="btn_selected">#7F79C3</color>
+    <color name="btn_font_selected">#292C35</color>
+
+    <color name="btn_check_bad_answer">#E05561</color>
+    <color name="font_check_bad_answer">#851015</color>
+
+    <color name="font_check_good_answer">#46543B</color>
+    <color name="btn_check_good_answer">#98C379</color>
+</resources>
